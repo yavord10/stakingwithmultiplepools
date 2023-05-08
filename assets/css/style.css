@@ -33,7 +33,7 @@ body {
   line-height: 1.6;
   font-weight: 500;
   overflow-x: hidden;
-  background-color: #151625;
+  background-color: #090a1a;
 }
 
 img {
@@ -52,7 +52,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   color: #ffffff;
   margin: 0 0 26px;
   line-height: 1.35;
@@ -91,7 +91,7 @@ h6 {
   font-size: 16px;
   font-weight: 400;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .sec-heading .heading-left-image {
@@ -377,7 +377,7 @@ body .modal-backdrop {
 .gamfi-about-secion .text-content,
 .gamfi-about-secion .allocation,
 .gamfi-about-secion .targeted-raise {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .gamfi-about-secion .game-price-inner,
@@ -387,7 +387,7 @@ body .modal-backdrop {
 }
 
 .gamfi-about-secion .total-price .all-raise {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .gamfi-about-secion .targeted-raise .all-raise {
@@ -777,7 +777,7 @@ body .modal-backdrop {
 }
 
 .previous-mainmenu .menu-list {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .previous-mainmenu .menu-list.date-menu {
@@ -859,7 +859,7 @@ body .modal-backdrop {
 }
 
 .gamfi-previous-section .form-switch {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
   -webkit-transition: 0.4s;
   transition: 0.4s;
@@ -1282,7 +1282,7 @@ body .modal-backdrop {
 }
 
 .v1_tokenomics_content_list_text h5 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1372,7 +1372,7 @@ body .modal-backdrop {
 .tokenomics-counter .counter-number {
   font-size: 36px;
   color: #6d4afe;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   display: block;
 }
 
@@ -1575,7 +1575,7 @@ body .modal-backdrop {
 }
 
 .gamfi_v2_hero_left h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -1614,7 +1614,7 @@ body .modal-backdrop {
 }
 
 .buy-token-logos h6 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -1976,7 +1976,7 @@ body .modal-backdrop {
 }
 
 .market_cap_content h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -1986,7 +1986,7 @@ body .modal-backdrop {
 }
 
 .market_cap_content h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -2055,7 +2055,7 @@ body .modal-backdrop {
   .timer
   ul
   li {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2146,7 +2146,7 @@ body .modal-backdrop {
 }
 
 .project_v2_tab_btns ul li button .btn-text {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2323,7 +2323,7 @@ body .modal-backdrop {
 }
 
 .key_points_item_text h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -2368,7 +2368,7 @@ body .modal-backdrop {
 }
 
 .tier_system_headings ul li {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -2470,7 +2470,7 @@ body .modal-backdrop {
 }
 
 .tier_system_items ul li strong {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2756,7 +2756,7 @@ body .modal-backdrop {
 }
 
 .roadmap-tab-btns ul li button .btn-text {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2859,7 +2859,7 @@ body .modal-backdrop {
   cursor: pointer;
   background: rgba(30, 31, 53, 0.5);
   height: 76px;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -2876,7 +2876,7 @@ body .modal-backdrop {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 24px 29px;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -2943,7 +2943,7 @@ body .modal-backdrop {
 }
 
 .faq_content_sect h6 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -2956,7 +2956,7 @@ body .modal-backdrop {
 }
 
 .faq_content_sect h6 a {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -3008,7 +3008,7 @@ body .modal-backdrop {
 }
 
 .roadmap_contents h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -3153,7 +3153,7 @@ body .modal-backdrop {
 .sc_banner_v3_left h2 {
   max-width: 499px;
   width: 100%;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -3199,7 +3199,7 @@ body .modal-backdrop {
 }
 
 .sc_banner_v3_right ul li h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -3209,7 +3209,7 @@ body .modal-backdrop {
 }
 
 .sc_banner_v3_right ul li h4 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -3320,7 +3320,7 @@ body .modal-backdrop {
 }
 
 .multi_block_chains_left h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -3543,7 +3543,7 @@ body .modal-backdrop {
 }
 
 .how_to_participate_right_card_text h4 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -3992,7 +3992,7 @@ body .modal-backdrop {
   color: #ffffff;
   padding: 12px 20px;
   border-color: #303244;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
   border: 1px solid #303244;
   outline: none;
@@ -4037,7 +4037,7 @@ body .modal-backdrop {
   color: #ffffff;
   padding: 12px 20px;
   border-color: #303244;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
 }
 
@@ -4077,6 +4077,7 @@ body .modal-backdrop {
   background: rgba(30, 31, 53, 0.8);
   margin-bottom: 30px;
   padding: 45px 50px;
+  border-radius: 10px;
 }
 
 .project-details-conent .project-item .project-info {
@@ -4114,12 +4115,12 @@ body .modal-backdrop {
 }
 
 .project-details-conent .project-item .big-text {
-  font-size: 30px;
+  font-size: 28px;
   color: #5d5dff;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   position: absolute;
   right: 0;
-  top: 10px;
+  top: 15px;
 }
 
 .project-details-conent .project-item .project-form-list .balance-form-area {
@@ -4180,7 +4181,7 @@ body .modal-backdrop {
   -webkit-transition: 0.4s;
   transition: 0.4s;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   padding-left: 30px;
   padding-right: 30px;
   width: 170px;
@@ -4293,7 +4294,7 @@ body .modal-backdrop {
 .project-details-conent table .table-header {
   background: #1e1f35;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .project-details-conent table .table-header th {
@@ -4408,7 +4409,7 @@ body .modal-backdrop {
   background: transparent;
   padding: 0;
   color: rgba(255, 255, 255, 0.7);
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   margin-bottom: 25px;
 }
 
@@ -4502,7 +4503,7 @@ body .modal-backdrop {
 
 .project-menu-area .project-left-menu .tab-link {
   background: transparent;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   position: relative;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.7);
@@ -4804,7 +4805,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_clasic_2_timer .price-counter .timer ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -4829,7 +4830,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_clasic_2_container_right_headings h2 a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -4863,7 +4864,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .total_rised_progress_headings h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -4878,7 +4879,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .total_rised_progress_headings p {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5080,7 +5081,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .access_allocation_participants_sect ul li p {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5215,7 +5216,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details_road_map_content h4 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -5282,7 +5283,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details_team_members_card h5 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5377,7 +5378,7 @@ body .gamfi-explore-content .project-item {
 
 .project_summary_tabs_sect .project-summary-tab-btn a {
   background: transparent;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5655,7 +5656,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_clasic_slider_text_sect h3 a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -5714,7 +5715,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_clasic_slider_rise_content h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5730,7 +5731,7 @@ body .gamfi-explore-content .project-item {
   border: none;
   outline: none;
   background: #6d4afe;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5783,7 +5784,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_clasic_slider_right_timer ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -5830,7 +5831,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .access_allocation_text h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -5867,7 +5868,7 @@ body .gamfi-explore-content .project-item {
 .project_clasic_slider_progress_sect .progress .title {
   position: relative;
   z-index: 100;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -5959,7 +5960,7 @@ body .gamfi-explore-content .project-item {
 
 .calendar header .month,
 .calendar header .month .year {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
@@ -6345,7 +6346,7 @@ body .gamfi-explore-content .project-item {
 
 .event-top h2 {
   margin-bottom: 13px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 27px;
@@ -6368,7 +6369,7 @@ body .gamfi-explore-content .project-item {
 
 .event-time h2 {
   padding: 8px 56px 8px 35px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
@@ -6500,7 +6501,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .first_survivor_city_left_timer .price-counter ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -6529,7 +6530,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .first_survivor_city_right_project_name h2 a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -6597,7 +6598,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .pool_and_token_info_card h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -6681,7 +6682,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details2_schedule_table_sect h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -6730,7 +6731,7 @@ body .gamfi-explore-content .project-item {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -6837,7 +6838,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details2_allocations_table_sect h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -6877,7 +6878,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details2_allocations_table_headings ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -6906,7 +6907,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .project_details2_allocations_table_headings th {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -7046,7 +7047,7 @@ body .gamfi-explore-content .project-item {
   height: 40px;
   width: 120px;
   background: rgba(255, 255, 255, 0.1);
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -7114,7 +7115,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .igo-rankging-table-list tr th {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 400;
   text-transform: uppercase;
@@ -7191,7 +7192,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -7206,7 +7207,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details h2 span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -7217,7 +7218,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details h3 a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -7239,7 +7240,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -7272,7 +7273,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details2 h4 a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -7289,7 +7290,7 @@ body .gamfi-explore-content .project-item {
 }
 
 .article_details2 h4 a strong {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -7342,7 +7343,7 @@ body .gamfi-explore-content .project-item {
 .blog-detail-conent .blog-area .blog-description .des {
   font-size: 18px;
   line-height: 36px;
-  font-family: Russo One;
+  font-family: Inter;
 }
 
 .blog-detail-conent .blog-area .blog-description .blockquote {
@@ -7614,7 +7615,7 @@ body .gamfi-explore-content .project-item {
   color: #7abb1b;
   margin-bottom: 10px;
   display: block;
-  font-family: Russo One;
+  font-family: Inter;
 }
 
 .blog-detail-conent .blog-area .about-blog .blog-contact .next-item {
@@ -7647,7 +7648,7 @@ body .gamfi-explore-content .project-item {
   color: #7abb1b;
   margin-bottom: 10px;
   display: block;
-  font-family: Russo One;
+  font-family: Inter;
 }
 
 .blog-detail-conent
@@ -7862,7 +7863,7 @@ body .gamfi-explore-content .project-item {
   -webkit-transition: 0.4s;
   transition: 0.4s;
   line-height: 36px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -7903,7 +7904,7 @@ body .gamfi-explore-content .project-item {
 .post-item .recent-content .recent-text span {
   margin-bottom: 10px;
   display: block;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -7980,7 +7981,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .news-letter-item h4 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -8005,7 +8006,7 @@ div.latest-item .hover-shape-bg {
   text-transform: uppercase;
   background: #5d5dff;
   border: transparent;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 /* --- Gamfi Latest-details-content Section CSS ---*/
@@ -8039,7 +8040,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .latest-item .sub-inner a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -8062,7 +8063,7 @@ div.latest-item .hover-shape-bg {
   -webkit-transition: 0.4s;
   transition: 0.4s;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 30px;
@@ -8113,7 +8114,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_bradcome_right ul li h6 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8124,7 +8125,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_bradcome_right ul li h5 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -8206,7 +8207,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_front_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -8250,7 +8251,7 @@ div.latest-item .hover-shape-bg {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8266,7 +8267,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_apy h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8307,7 +8308,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_front_list ul li strong {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8334,7 +8335,7 @@ div.latest-item .hover-shape-bg {
   width: 46.5%;
   height: 40px;
   background: rgba(255, 255, 255, 0.2);
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -8365,7 +8366,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_front_reward h5 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8411,7 +8412,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_back_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -8457,7 +8458,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card_back_form form span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8505,7 +8506,7 @@ div.latest-item .hover-shape-bg {
   background: rgba(255, 255, 255, 0.2);
   border: none;
   outline: none;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -8525,7 +8526,7 @@ div.latest-item .hover-shape-bg {
   width: 100%;
   height: 40px;
   background: #6d4afe;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -8575,7 +8576,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .lq_flip_card_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8590,7 +8591,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .lq_flip_card_headings h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8727,7 +8728,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking4_time_counter .timer ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -8736,7 +8737,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking4_time_counter .timer ul li span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8745,7 +8746,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .project-form-list h4 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8755,7 +8756,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .project-form-list h6 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8789,7 +8790,7 @@ div.latest-item .hover-shape-bg {
   background: rgba(255, 255, 255, 0.2);
   height: 60px;
   width: 156px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -8846,7 +8847,7 @@ div.latest-item .hover-shape-bg {
   height: 40px;
   width: 120px;
   padding: 0px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -8927,7 +8928,7 @@ div.latest-item .hover-shape-bg {
   -webkit-transition: 0.4s;
   transition: 0.4s;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   position: relative;
   z-index: 3;
 }
@@ -8984,7 +8985,7 @@ div.latest-item .hover-shape-bg {
 .expeand-centent .unit {
   color: #5d5dff;
   font-size: 22px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .expeand-centent .icon-arrow_up {
@@ -9122,7 +9123,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .leaderboard-table-list tr th {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 400;
   text-transform: uppercase;
@@ -9163,6 +9164,7 @@ div.latest-item .hover-shape-bg {
 
 .gamfi-breadcrumbs-section .breadcrumbs-form.mr-0 form {
   margin-right: 0;
+  z-index: 0;
 }
 
 /*--- FAQ page style ---*/
@@ -9190,7 +9192,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .faq_screen_tab ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -9215,7 +9217,7 @@ div.latest-item .hover-shape-bg {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -9243,7 +9245,7 @@ div.latest-item .hover-shape-bg {
   cursor: pointer;
   background: transparent;
   width: 100%;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -9380,7 +9382,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi_tier_card h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -9391,7 +9393,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi_tier_card h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -9419,7 +9421,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi_tier_card h4 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -9449,7 +9451,7 @@ div.latest-item .hover-shape-bg {
 
 .tier_v2_col_headings h2 {
   margin-top: 30px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -9459,7 +9461,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tier_v2_col_headings h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -9582,7 +9584,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tier_v2_col_body ul li h5 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -9619,7 +9621,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tvl_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -9629,7 +9631,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tvl_headings h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 28px;
@@ -9640,7 +9642,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tvl_list ul li {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -9690,7 +9692,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tvl_right_card_headings h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -9765,7 +9767,7 @@ div.latest-item .hover-shape-bg {
   background: rgba(30, 31, 53, 0.7);
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -9839,7 +9841,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_contents_left h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -9902,7 +9904,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .tokenomics_list_text h5 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -10020,7 +10022,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_content_right_card h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -10053,7 +10055,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_content_right_card ul li span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -10062,7 +10064,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_content_right_card ul li strong {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -10090,7 +10092,7 @@ div.latest-item .hover-shape-bg {
 .governanc_content_right_card_btns button {
   height: 60px;
   width: 100%;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -10126,7 +10128,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_content_left_hash_card h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -10782,7 +10784,7 @@ div.latest-item .hover-shape-bg {
   outline: none;
   border: none;
   padding: 0px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -10798,7 +10800,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_details_heading h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -10915,7 +10917,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .cast_your_vote_card h3 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -10969,7 +10971,7 @@ div.latest-item .hover-shape-bg {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11036,7 +11038,7 @@ div.latest-item .hover-shape-bg {
   background: #6d4afe;
   height: 60px;
   width: 170px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11054,7 +11056,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governanc_details_text h4 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -11089,7 +11091,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governce_vote_table ul li h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -11170,7 +11172,7 @@ div.latest-item .hover-shape-bg {
 
 .governance_vote_modal_form h4 {
   margin-bottom: 0px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11180,7 +11182,7 @@ div.latest-item .hover-shape-bg {
 
 .governance_vote_modal_form h3 {
   margin-bottom: 0px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
@@ -11193,7 +11195,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .governance_vote_modal_form form span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11223,7 +11225,7 @@ div.latest-item .hover-shape-bg {
   border: none;
   outline: none;
   background: #6d4afe;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11336,7 +11338,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .connect_wallet_card_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -11359,7 +11361,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .choose_network_sect h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11415,7 +11417,7 @@ div.latest-item .hover-shape-bg {
   border: 2px solid rgba(255, 255, 255, 0.15);
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11438,7 +11440,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .connect_wallet_content h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11471,7 +11473,7 @@ div.latest-item .hover-shape-bg {
   -ms-flex-align: center;
   align-items: center;
   padding: 16px 30px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11510,7 +11512,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi_header_content_right h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -11555,7 +11557,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .kyc_form h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -11668,7 +11670,7 @@ div.latest-item .hover-shape-bg {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -11732,7 +11734,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .kyc_form .btn_custom {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -11775,7 +11777,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .kyc_qrcode_content h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -11896,7 +11898,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .kyc_form .upload_docs_sect h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12005,7 +12007,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .nid_number_sect h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12180,7 +12182,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .kyc_your_documents_content h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12257,7 +12259,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .team_members_info h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
@@ -12295,7 +12297,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .team_members_contact ul li strong {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -12352,7 +12354,7 @@ div.latest-item .hover-shape-bg {
 /*--- road map pages style ---*/
 /*---- RoadMap ----*/
 .roadmap_duration h6 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 28px;
@@ -12548,7 +12550,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .roadmap_content_box h3 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12629,7 +12631,7 @@ div.latest-item .hover-shape-bg {
 .roadmap_2021_divider span {
   -webkit-transform: rotate(270deg);
   transform: rotate(270deg);
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12661,7 +12663,7 @@ div.latest-item .hover-shape-bg {
 .roadmap_2022_divider span {
   -webkit-transform: rotate(270deg);
   transform: rotate(270deg);
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12699,7 +12701,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .get_in_touch_form form span {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -12764,7 +12766,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .get_in_touch_contact_content h2 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -12792,7 +12794,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .contact_info_content .contact_info_symbol h5 {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13024,7 +13026,7 @@ div.latest-item .hover-shape-bg {
   position: relative;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .readon {
@@ -13054,7 +13056,7 @@ div.latest-item .hover-shape-bg {
   position: relative;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   color: #ffffff;
   border: 2px solid #2e2f3b;
   padding: 12px 25px 9px;
@@ -13102,7 +13104,7 @@ div.latest-item .hover-shape-bg {
   margin-left: 25px;
   padding: 13px 32px 11px;
   border: none;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .white-btn img {
@@ -13118,7 +13120,7 @@ div.latest-item .hover-shape-bg {
   position: relative;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   background: #5d5dff;
   color: #090a1a;
   padding: 19px 50px;
@@ -13147,7 +13149,7 @@ div.latest-item .hover-shape-bg {
   color: #ffffff;
   padding: 12px 25px 8px;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   overflow: hidden;
   display: block;
   -webkit-transition: 0.4s;
@@ -13181,7 +13183,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .view-project-btn .btn-text {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13211,7 +13213,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .apply-project-btn .btn-text {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13243,7 +13245,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .show-more-logo-btn .btn-text {
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13302,7 +13304,7 @@ div.latest-item .hover-shape-bg {
   -ms-flex-pack: center;
   justify-content: center;
   outline: none;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -13340,7 +13342,7 @@ div.latest-item .hover-shape-bg {
   width: 170px;
   height: 50px;
   background: rgba(255, 255, 255, 0.1);
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13373,7 +13375,7 @@ div.latest-item .hover-shape-bg {
   -ms-flex-pack: center;
   justify-content: center;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #090a1a;
@@ -13459,30 +13461,9 @@ div.latest-item .hover-shape-bg {
 }
 
 .gamfi-header-section.default-header {
-  background: #090a1a;
+  background: transparent;
   position: relative;
   z-index: 11;
-}
-
-.gamfi-header-section.default-header::before {
-  width: 252px;
-  height: 100%;
-  content: "";
-  background-image: url("../images/bg/header-shape1.png");
-  position: absolute;
-  top: 0;
-  background-repeat: no-repeat;
-  z-index: 0;
-}
-
-.gamfi-header-section.default-header::after {
-  background-image: url("../images/bg/header-shape1.png");
-  left: 0;
-}
-
-.gamfi-header-section.default-header::before {
-  background-image: url("../images/bg/header-shape2.png");
-  right: 0;
 }
 
 .gamfi-header-section .logo {
@@ -13547,7 +13528,7 @@ div.latest-item .hover-shape-bg {
   display: block;
   background: #222231;
   font-size: 16px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   background: rgba(19, 20, 44, 0.98);
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
@@ -13566,7 +13547,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .disconnect-metamask {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
 }
 
@@ -13610,7 +13591,7 @@ div.latest-item .hover-shape-bg {
 .gamfi-header-section .header-menu ul li a {
   display: block;
   color: #ffffff;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -13800,7 +13781,7 @@ div.latest-item .hover-shape-bg {
   padding: 10px 0;
   line-height: 30px;
   width: 100%;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .gamfi-header-section .mobile-navbar-menu .nav-menu li li a {
@@ -13975,7 +13956,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .home_menu_list_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -14056,7 +14037,7 @@ div.latest-item .hover-shape-bg {
   -webkit-box-pack: start !important;
   -ms-flex-pack: start !important;
   justify-content: flex-start !important;
-  font-family: "Russo One", sans-serif !important;
+  font-family: "Inter", sans-serif !important;
   font-style: normal;
   font-weight: 400 !important;
   font-size: 16px !important;
@@ -14123,7 +14104,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .menu_headings h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -14140,7 +14121,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .menu_column ul li span {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -14182,7 +14163,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .menu_column ul li a {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -14237,7 +14218,7 @@ div.latest-item .hover-shape-bg {
 
 .gamfi-header-section .header-menu ul li .menu_column ul li a {
   display: block;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -14323,11 +14304,8 @@ div.latest-item .hover-shape-bg {
 
 /*--- Gamfi Breadcrumbs Section CSS ---*/
 .gamfi-breadcrumbs-section {
-  background: url("../images/bg/breadcrumbs-bg.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 80px 0 70px;
+  padding: 80px 0 40px;
+  background-color: #090a1a;
 }
 
 .gamfi-breadcrumbs-section.breadcrumbs-style2 {
@@ -14344,7 +14322,7 @@ div.latest-item .hover-shape-bg {
   text-transform: uppercase;
   margin-right: 24px;
   position: relative;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .breadcrumbs-link::before {
@@ -14376,7 +14354,7 @@ div.latest-item .hover-shape-bg {
 .breadcrumbs-social a {
   color: #b8b8bd;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .breadcrumbs-social a i {
@@ -14563,7 +14541,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .account__title h2 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 36px;
   line-height: 43px;
@@ -14627,7 +14605,7 @@ div.latest-item .hover-shape-bg {
   background: #6d4afe;
   border: none;
   outline: none;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -14700,7 +14678,7 @@ div.latest-item .hover-shape-bg {
 
 .input__group label {
   margin-bottom: 5px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 45px;
@@ -14950,7 +14928,7 @@ div.latest-item .hover-shape-bg {
 .footer-cta-area .footer-link input[type="submit"] {
   border: none;
   text-transform: uppercase;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   padding: 17px 50px;
   position: relative;
   z-index: 3;
@@ -15117,7 +15095,7 @@ div.latest-item .hover-shape-bg {
 
 .gamfi_footer_btn_content a {
   position: absolute;
-  font-family: Russo One;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -15189,7 +15167,7 @@ div.latest-item .hover-shape-bg {
 
 .modal-content .heading-list li a {
   color: #ffffff;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .modal-content .modal-title {
@@ -15301,7 +15279,7 @@ div.latest-item .hover-shape-bg {
   border: 1px solid #2e2f3c;
   color: #ffffff;
   padding: 10px 20px;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
   -webkit-transition: 0.4s;
   transition: 0.4s;
@@ -15406,7 +15384,7 @@ div.latest-item .hover-shape-bg {
 
 .circle-progress-text {
   fill: #ffffff;
-  font-family: "Russo One", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 30px;
   line-height: 30px;

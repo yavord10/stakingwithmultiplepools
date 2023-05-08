@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "icomoon";
+  font-family: "Inter";
   src: url("../fonts/icomoonc580.eot?1o95z7");
   src: url("../fonts/icomoonc580.eot?1o95z7#iefix") format("embedded-opentype"),
     url("../fonts/icomoonc580.ttf?1o95z7") format("truetype"),
@@ -12,7 +12,7 @@
 [class^="icon-"],
 [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: "icomoon" !important;
+  font-family: "Inter" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -124,4 +124,3 @@
 .icon-play:before {
   content: "\e91b";
 }
-
