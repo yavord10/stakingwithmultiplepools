@@ -187,7 +187,7 @@ _CONTRACT_DATA[_NETWORK_ID] = {
     ],
   },
   TOKEN: {
-    symbol: "MAIR",
+    symbol: "MAIM",
     address: "0x6cf6486fb30206271acA7375c43cf6c3A6ea27aA",
     abi: [
       { inputs: [], stateMutability: "nonpayable", type: "constructor" },
